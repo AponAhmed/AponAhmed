@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AponAhmed
+- 👋 Hi, I’m @AponAhmed, Full stack Developer, Over 8 years of Experience in Web Development.
 - 👀 I’m interested in learn somthing new 
 - 🌱 I’m currently learning Vue,React,Laravel
 
