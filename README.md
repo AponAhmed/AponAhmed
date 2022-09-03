@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhiminul Haque</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aponahmed&show_icons=true&locale=en&layout=compact" alt="aponahmed" /><br>
+  <img src="https://github.com/AponAhmed/AponAhmed/blob/main/apon.gif?raw=true" alt="aponahmed" /><br>
   <img src="https://komarev.com/ghpvc/?username=aponahmed&label=Profile%20views&color=0e75b6&style=flat" alt="aponahmed" /> 
 </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **apon2041@gmail.com**
 
+<p align="left">
+&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aponahmed&show_icons=true&locale=en&layout=compact" alt="aponahmed" /><br>
+</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
