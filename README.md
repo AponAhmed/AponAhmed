@@ -33,8 +33,7 @@
 <br>
 <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aponahmed" alt="aponahmed" /></a> </p><br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/apon2041w"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="apon2041w" /></a></p><br><br>
+
 
 
 
