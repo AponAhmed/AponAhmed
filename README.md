@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhiminul Haque</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 <p align="center"> 
-  <img src="https://github.com/AponAhmed/AponAhmed/blob/main/apon.gif?raw=true" alt="aponahmed" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&center=true&random=false&width=750&lines=Hi+There%2C;I'm+Muhiminul+Haque.;You+can+call+me+APON+also+%3A);I'm+Full+stack+developer+with+a+decade+of+expereance.;Expert+in+PHP%2C+Laravel%2C+Java%2C+JavaScript%2C+SQL%2C+HTML%2C+CSS...;I'm+Open+to+work+now.;Nice+to+meet+you." alt="Typing SVG" /> <br>
   <img src="https://komarev.com/ghpvc/?username=aponahmed&label=Profile%20views&color=0e75b6&style=flat" alt="aponahmed" /> 
 </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
