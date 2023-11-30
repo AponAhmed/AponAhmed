@@ -111,10 +111,8 @@
 </td>
         </tr>
     </tbody></table><br>
-<div align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aponahmed&show_icons=true&locale=en" alt="aponahmed" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aponahmed&" alt="aponahmed" /></div>
-<div align="center" dir="auto">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aponahmed&show_icons=true&locale=en&layout=compact" alt="aponahmed" />
-</div>
+<div align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aponahmed&show_icons=true&locale=en&layout=compact" alt="aponahmed" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=aponahmed&show_icons=true&locale=en" alt="aponahmed" /></div>
+<div align="center" dir="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aponahmed&" alt="aponahmed" /></div>
 <br>
 <div align="center" dir="auto"><img src="https://github-profile-trophy.vercel.app/?username=aponahmed" alt="aponahmed" /></div>
 <br>
