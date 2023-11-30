@@ -13,22 +13,6 @@
 
 - 📫 How to reach me **apon2041@gmail.com**
 
-<p align="left">
-&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aponahmed&show_icons=true&locale=en&layout=compact" alt="aponahmed" /><br>
-</p>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/apon22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="apon22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/apon-ahmed-a921a9100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apon-ahmed-a921a9100" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5197317/apon-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5197317/apon-ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/m.2766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.2766" height="30" width="40" /></a>
-</p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aponahmed&show_icons=true&locale=en" alt="aponahmed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aponahmed&" alt="aponahmed" /></p>
-<br><br>
-<h3 align="left">Languages and Tools:</h3>
 <table align="center">
         <tbody><tr>
            <td align="center" width="96">
@@ -126,7 +110,21 @@
                <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="icon" width="40" height="40"  style="max-width: 100%;">
 </td>
         </tr>
-    </tbody></table>
+    </tbody></table><br>
+<p align="left">
+&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aponahmed&show_icons=true&locale=en&layout=compact" alt="aponahmed" /><br>
+</p>
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/apon22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="apon22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apon-ahmed-a921a9100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apon-ahmed-a921a9100" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5197317/apon-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5197317/apon-ahmed" height="30" width="40" /></a>
+<a href="https://fb.com/m.2766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.2766" height="30" width="40" /></a>
+</p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aponahmed&show_icons=true&locale=en" alt="aponahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aponahmed&" alt="aponahmed" /></p>
 <br>
 <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aponahmed" alt="aponahmed" /></a> </p><br>
