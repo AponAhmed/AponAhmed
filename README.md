@@ -110,14 +110,15 @@
                <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="icon" width="40" height="40"  style="max-width: 100%;">
 </td>
         </tr>
-    </tbody></table><br>
+    </tbody></table>
+<br>
 <div align="center" dir="auto">
 	<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aponahmed&layout=donut" alt="aponahmed" />
 	<img width="58%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aponahmed&" alt="aponahmed" />
 </div>
+<br>
 <div align="center" dir="auto">
-  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=aponahmed&show_icons=true&locale=en" alt="aponahmed" />
-  <img width="49%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aponahmed&" alt="aponahmed" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=aponahmed&rank_icon=github" alt="aponahmed" />
 </div>
 <br>
 
