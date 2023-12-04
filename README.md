@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<div align="center" dir="auto"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=aponahmed" alt="aponahmed" /></div>
+<div align="center" dir="auto"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=aponahmed&row=1&column=9" alt="aponahmed" /></div>
 <br>
 
 <div align="center" dir="auto">
