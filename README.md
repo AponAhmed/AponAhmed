@@ -14,7 +14,7 @@
 - 📫 How to reach me **apon2041@gmail.com**
 <br>
 <div align="center" dir="auto">
-	<img width="100%" src="https://skillicons.dev/icons?i=js,html,css,react,next,vue,bootstrap,tailwind,sass,webpack,php,java,py,cs,nodejs,laravel,maven,express,arduino,linux,mysql,postgresql,mongo,git,github,vscode,bash,gcp,ps,figma&perline=10" alt="aponahmed" />
+	<img width="100%" src="https://skillicons.dev/icons?i=js,html,css,react,next,vue,bootstrap,tailwind,sass,webpack,php,java,py,cs,nodejs,laravel,wordpress,maven,express,arduino,mysql,postgresql,mongo,linux,git,github,bash,gcp,ps,figma&perline=10" alt="aponahmed" />
 </div>
 <br>
 <div align="center" dir="auto">
